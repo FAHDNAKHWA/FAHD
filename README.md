@@ -1,0 +1,2 @@
+# FAHD
+Learn hacking
